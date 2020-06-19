@@ -1,0 +1,48 @@
+Hi Naveen please look at the details below once.
+
+Req=============
+Git
+SVN
+Devops
+deployment
+1. large scale GIT deployment on an Enterprise Level and understanding of Git Architecture and it's limitation
+2. experience with SVN/Git and Perforce. The client is looking to transition corporate infrastructure from a set of 
+independent repositories to a unified methodology.
+
+Company============
+
+Client: curpress Semiconductor/ San Jose CA
+person: Chriss
+
+Cypress Semiconductor Corporation is an American semiconductor design and manufacturing company. 
+It offers NOR flash memories, F-RAM and SRAM Traveo microcontrollers
+Cypress announced the acquisition of Broadcom’s Wireless Internet of Things (IoT) 
+ business and related assets 
+
+From Vendor==============
+ 
+1. What have you been doing for the last six months (or the last year)?
+The client already has your resume. He wants to hear you talk about your activities, 
+the technical aspects of your last position(s), whether you prefer to work alone or are a team player, 
+how you handle pressure and deadlines, etc. and he wants to see how you handle yourself. Be prepared to spend a few minutes discussing your assignment(s) for the last year or two. Respond with specific details and examples; avoid abrupt "yes " or "no " answers.
+2. Why did you leave (do you want to leave) your last position?
+If you left for a reason other than completion of the project, state your reasons honestly and simply. 
+Do not give a long, detailed answer on the "wrongs " you found at the job.
+3. What are your strengths? Weaknesses?
+The ability to talk about your strengths is an indication of self-confidence. 
+As for your weaknesses, it is probably accurate to say that none have been 
+called to your attention that would prevent you from doing a good job in the position under consideration.
+4. Tell me about yourself.
+Before you answer, you can ask, "Which part of my experience would you like me to start with? 
+" Then give a two-minute response that shows you to be a positive, enthusiastic person who can be of value to their company.
+BE POISED, BE INTERESTED, BE DECISIVE, BE MODEST
+
+
+My story: just for info:==================
+Current project New york rochester: L3 Harris - no work from home. They told to rejoin after Covid-19
+so actively looking new position.
+Can join in 1-2 weeks.
+
+Family in GA Cumming 2440 Copperfiled dr
+2 kids i in college
+1 in high school
