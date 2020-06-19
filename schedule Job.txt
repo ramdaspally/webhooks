@@ -1,0 +1,4 @@
+Python: 1
+DevOps: 2== 2 weeks
+Azure: 3== 2 weeks
+Docker and K8s: 4== 1 week
